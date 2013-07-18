@@ -1,0 +1,4 @@
+database: 
+  host: somehost
+  user: user
+  pass: pass
